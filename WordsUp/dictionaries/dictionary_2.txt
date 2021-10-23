@@ -1,0 +1,664 @@
+﻿a person - человек, персона
+a man -	мужчина
+a woman - женщина
+a child  - ребенок
+a boy	мальчик
+a girl	девочка
+a friend	друг
+a neighbour 	сосед
+a name	имя, название
+a surname 	фамилия
+a maiden name	девичья фамилия
+an address	адрес
+single	холостой/незамужняя
+married	женатый/замужняя
+age	возраст
+old	старый
+young	молодой
+I	я
+you	ты, вы
+we	мы
+they	они
+he	он
+she	она
+it	оно
+my 	мой
+me	мне
+your	твой, ваш
+you	тебе, вам
+our	наш
+us	нам
+their	их
+them	им
+his	его
+him	ему
+her	ее/ей
+parents 	родители
+a father	отец
+a mother 	мать
+a husband	муж
+a wife	жена
+a son	сын
+a daughter	дочь
+a brother	брат
+a sister	сестра
+a grandfather	дедушка
+a grandmother	бабушка
+an uncle	дядя
+an aunt	 тетя
+a nephew	племянник
+a niece	  племянница
+a cousin	двоюродный брат/двоюродная сестра
+an arm	рука
+a back	спина
+a beard	борода
+a bone	кость
+buttocks	ягодицы
+a cheek	щека
+a chest	грудь
+a chin	подбородок
+an ear	ухо
+an elbow	локоть
+an eye	глаз
+an eyebrow	бровь
+a face	лицо
+a finger	палец на руке
+a foot 	ступня
+a forehead	лоб
+hair	волосы
+a hand	кисть руки
+a head	голова
+a heart	сердце
+a heel	пятка
+a knee	колено
+a leg	нога
+lips	губы
+a mouth	рот
+a mustache	усы
+a nail	ноготь
+a neck	шея
+a nose	нос
+an organ	орган
+a shoulder	плечо
+skin	кожа
+a spine	позвоночник
+a stomach	живот, желудок
+a throat	горло
+a toe	палец на ноге
+a tongue	язык
+a tooth  зуб
+blood	кровь
+a bruise	синяк
+cough   кашель
+to cough	кашлять
+dizziness	головокружение
+fever	жар
+flu	грипп
+pain	боль
+running nose	насморк
+a spot	пятно, точка
+a wound	рана
+to sneeze	чихать
+to hurt   ранить, повреждать
+fit	в хорошей форме
+healthy	здоровый
+swollen	опухший
+sick	больной
+fat	толстый, жирный
+dead	мертвый
+positive	положительный
+amazing	удивительный
+beautiful	красивый
+brave	смелый
+calm	спокойный
+careful	осторожный
+clever	умный
+curious	любопытный
+elegant	элегантный
+energetic	энергичный
+fair	справедливый, честный
+fine	прекрасный, прекрасно
+friendly	дружелюбный
+good	хороший, добрый
+happy	счастливый
+hard-working	трудолюбивый
+honest	честный
+kind	добрый
+lucky	везучий, счастливый
+nice	милый, хороший, приятный
+polite	вежливый
+talented	талантливый
+neutral	нейтральный
+average	средний
+boring	скучный
+busy	занятой
+clumsy	неуклюжий
+dear	дорогой
+different	другой, разный
+difficult	трудный, тяжелый
+easy	легкий, нетрудный
+embarrassed	смущенный
+famous	знаменитый
+important	важный
+impossible	невозможный
+interesting	интересный
+real	настоящий
+rich	богатый
+new	новый
+modern	современный
+negative	отрицательный
+angry	сердитый
+annoying	раздражающий
+awful	ужасный, отвратительный
+bad	плохой
+crazy	безумный, сумасшедший
+dangerous	опасный
+jealous	ревнивый
+lazy	ленивый
+nervous	нервный
+poor	бедный
+rude	грубый
+an accountant	бухгалтер
+an actor актер
+actress	актриса
+an artist	художник
+a boss	босс
+a businessman 	бизнесмен
+a chief	руководитель, главный
+a client	клиент
+a colleague 	коллега
+a doctor	врач
+a driver	водитель
+an engineer	инженер
+a flight attendant	стюардесса, бортпроводник
+a journalist	журналист
+a lawyer	адвокат, юрист
+a lifeguard	спасатель
+a mechanic	механик
+a musician	музыкант
+a nanny	няня
+a nurse	медсестра
+a pilot	пилот
+a plumber	сантехник
+a policeman 	полицейский
+a pupil	 школьник
+a shop assistant	продавец
+a student	студент
+a teacher	учитель
+a waiter	официант
+waitress	официантка
+a worker	рабочий
+an area	область, сфера, район
+a case	дело
+a circumstance	обстоятельство
+a decision	решение
+a duty	обязанность
+a goal	цель
+a list  список
+to list  перечислять
+an opportunity	возможность
+a problem	проблема
+a reason	причина
+a result	результат
+success	успех
+a task	задача, задание
+a belt	пояс, ремень
+a blouse	блузка
+a boot	сапог, ботинок
+a cap	кепка
+a cardigan	кардиган, кофта
+a coat	пальто
+a dress платье
+to dress одеваться
+a glove	перчатка
+a hat	шляпа
+a hood	капюшон
+a jacket	жакет, пиджак, куртка
+a jeans	джинсы
+pyjamas 	пижама
+a scarf	шарф
+a shirt	рубашка
+shoes	обувь
+shorts	шорты
+a skirt	юбка
+a sock	носок
+a suit  костюм
+to suit	 идти к лицу
+a sweater	свитер
+a tie	галстук
+tights	колготы
+trainers 	кроссовки
+trousers 	штаны
+a T-shirt	футболка
+an underwear	нижнее белье
+a bracelet	браслет
+an earring	сережка
+glasses	очки
+a necklace	ожерелье
+a purse	дамская сумка, кошелек
+a wallet	бумажник
+red	красный
+orange	оранжевый
+yellow	желтый
+green	зеленый
+blue	голубой, синий
+purple	фиолетовый
+pink	розовый
+brown	коричневый
+black	черный
+grey	серый
+white	белый
+bright	яркий
+colourful	цветной
+dark	темный
+light	светлый, легкий
+a circle	круг
+round	округлый
+a square  квадрат
+square	квадратный
+straight	прямой, ровный
+a wheel	колесо
+distance	расстояние
+size	размер
+speed	скорость
+strength	сила
+a lot of	много
+many	много
+few	мало
+less	меньше, менее
+more	больше, более
+some	несколько, некоторое количество
+any	несколько, некоторое количество, какой-нибудь
+a pair	пара
+a part	часть
+a piece	кусок, часть
+big	большой
+far	далекий
+fast	быстрый, быстро
+hard	твердый, трудный, жесткий, усердно
+heavy	тяжелый
+high	высокий
+large	большой, просторный
+long	длинный, долгий
+loud	громкий
+low	низкий, низко
+narrow	узкий
+near	близкий
+noisy	шумный
+powerful	мощный
+quick	быстрый
+quiet	тихий
+short	низкий, короткий
+also	также
+and	и
+because	потому что
+because of	из-за
+but	но
+if	если
+or	или
+so	итак, таким образом, поэтому
+what	что, какой
+who	кто
+when	когда
+where	где, куда
+how	как, каким образом
+why	почему, зачем
+fear	страх
+fun	веселье
+passion	страсть
+peace	мир
+pleasure	удовольствие
+to cry	плакать, кричать
+to enjoy	наслаждаться
+to laugh	смеяться
+to like	нравиться
+to love	любить
+to miss	скучать
+to need	нуждаться
+to smile	улыбаться
+to want	хотеть
+to worry	беспокоиться
+behavior	поведение
+choice	выбор
+experience	опыт
+habit	привычка
+language	язык
+meaning	значение, смысл
+memory	память, воспоминание
+soul	душа
+to believe	верить
+to compare	сравнивать
+to count	считать
+to decide	принимать решение
+a book	книга
+a calendar	календарь
+a notebook	тетрадь
+a dictionary	словарь
+an exercise	упражнение
+information	информация
+knowledge	знание
+a lesson	урок
+a letter	буква, письмо
+a mistake	ошибка
+a note	записка, запись
+a page	страница
+paper	бумага
+a pen	ручка
+a pencil	карандаш
+science	наука
+scissors	ножницы
+a test	тест
+a word	слово
+full	сытый, полный
+hungry	голодный
+delivery	доставка
+baked	запеченный
+boiled	вареный
+fried	жареный
+ready	готовый
+bitter	горький
+delicious	очень вкусный
+salty	соленый
+sour	кислый
+spicy	острый
+sweet	сладкий
+a meal	прием пищи
+breakfast	завтрак
+lunch	обед
+dinner	ужин
+snack	перекус
+a dish	блюдо
+noodles	лапша
+porridge	каша
+salad	салат
+a sandwich	бутерброд
+soup	суп
+fruit	фрукты
+vegetables	овощи
+an apple	яблоко
+an apricot	абрикос
+a banana	банан
+a berry	ягода
+a cherry	вишня
+a cucumber	огурец
+grapes	виноград
+a lemon	лимон
+a mandarin	мандарин
+a mango	манго
+a melon	дыня
+a peach	персик
+a pear	груша
+a pineapple	ананас
+a plum	слива
+a pumpkin	тыква
+a raspberry	малина
+a strawberry	клубника
+a tomato	помидор
+a watermelon	арбуз
+beans	бобы, фасоль
+a beetroot	свекла
+a bell pepper	болгарский перец
+a cabbage	капуста
+a carrot	морковь
+corn	кукуруза
+garlic	чеснок
+an onion	лук
+a mushroom	гриб
+potato	картофель
+dairy	молочные продукты
+butter	масло
+cheese	сыр
+cream	крем, сливки
+curd	творог
+milk	молоко
+yogurt	йогурт
+a cutlet	котлета
+meat	мясо
+beef	говядина
+chicken	курица, цыпленок
+fish	рыба
+duck	утка
+ham	ветчина
+lamb	баранина, ягненок
+pork	свинина
+sausage	колбаса, сосиска
+seafood	морепродукты
+dessert	десерт
+biscuit печенье
+a bun	булочка
+a cake	торт
+chocolate	шоколад
+honey	мед
+ice cream	мороженое
+jam	варенье
+a pie	пирог
+bread	хлеб
+an egg	яйцо
+flour	мука
+a nut	орех
+oatmeal	овсянка
+oil	растительное масло
+pepper	перец
+rice	рис
+salt	соль
+sauce	соус
+spices	специи
+sugar	сахар
+a drink	напиток
+coffee	кофе
+juice	сок
+soda	газировка
+tea	чай
+water	вода
+wine	вино
+a bottle	бутылка
+a glass	стакан, стекло
+a cup	чашка
+a kettle	чайник
+a bowl	глубокая тарелка, миска
+a plate	тарелка
+a fork	вилка
+a knife	нож
+a spoon	ложка
+a frying pan	сковородка
+a pan	кастрюля
+a napkin	салфетка
+an animal	животное
+an ant	муравей
+a bear	медведь
+a bee	пчела
+a bird	птица
+a cat	кот, кошка
+a cockroach	таракан
+a cow	корова
+a dog	собака
+a elephant	слон
+a fox	лиса
+a frog	лягушка
+a giraffe	жираф
+a goose 	гусь
+a horse	лошадь
+an insect	насекомое
+a lion  лев
+a lioness	львица
+a monkey	обезьяна
+a mouse 	мышь
+a pig	свинья
+a rabbit	заяц
+a rat	крыса
+a snake	змея
+a spider	паук
+a squirrel	белка
+a plant	растение
+a bush	куст
+a flower	цветок
+grass	трава
+a leaf	лист
+a tree	дерево
+nature	природа
+a beach	пляж
+a coast	морское побережье
+a field	поле
+fire	огонь, пожар
+a forest	лес
+an island	остров
+a lake	озеро
+a mountain	гора
+the ocean	океан
+a river	река
+sand	песок
+the sea	море
+a stone	камень
+a world	мир
+air	воздух
+degree	градус
+moon	луна
+sky	небо
+sun	солнце
+temperature	температура
+weather	погода
+clear	ясный
+cloudy	облачный
+cold	холодный, холодно
+cool	прохладный, прохладно
+foggy	туманный
+hot	горячий, жаркий, жарко
+rainy	дождливый, дождливо
+snowy	снежный, снежно
+warm	тепло, теплый
+windy	ветрено
+a birthday	день рождения
+Christmas	Рождество
+death	смерть
+Easter	Пасха
+a game	игра
+a holiday  праздник, каникулы, отпуск
+a meeting	встреча, собрание
+a party	вечеринка
+a wedding	свадьба
+a balloon	воздушный шар
+a box	коробка, боксировать
+a guest	гость
+an invitation	приглашение
+a present	подарок
+a toy	игрушка
+a country	страна
+customs	таможня
+a city	город
+a town	небольшой город, городок
+a village	деревня
+an airport	аэропорт
+a bank	банк
+a bridge	мост
+a building	здание
+a cafe	кафе
+a centre	центр
+a church	церковь
+a cinema	кинотеатр
+a company	компания, фирма
+entrance	вход
+exit	выход
+a factory	фабрика, завод
+garbage	мусор
+a hospital	больница
+a hotel	гостиница
+an intersection	перекресток, точка пересечения
+a market	рынок
+an office	офис
+a park	парк
+a pavement	тротуар
+a pharmacy 	аптека
+a police	полиция
+a post office	почта
+a restaurant	ресторан
+a road	дорога
+a school	школа
+a shop 	магазин
+a station	станция, вокзал
+a street	улица
+a theatre 	театр
+a university	университет
+clean	чистый
+comfortable	удобный, уютный
+crowded	людный, переполненный
+dirty	грязный
+main	основной, главный
+left	левый, налево
+right	правый, направо
+here	тут, сюда
+there	там, туда
+down	вниз
+up	вверх
+about	о, около, примерно
+above	над
+against	против
+behind	сзади, позади
+between	между
+from	из
+in	в
+in front of	впереди
+on	на
+through	через, сквозь
+to	по направлению к
+under	под
+with	с
+without	без
+a flat 	квартира
+a house	дом
+a balcony	балкон
+a bathroom	ванная
+a bedroom	спальня
+a curtain	штора
+a door	дверь
+a fence	забор
+a floor	пол, этаж
+a hall	коридор
+a kitchen	кухня
+a living room	гостиная, зал
+a roof	крыша
+a room	комната
+a shower	душ
+a sink	раковина
+a socket	розетка
+stairs	лестница, ступеньки
+a toilet	туалет
+a wall	стена
+a window	окно
+a yard	двор
+furniture	мебель
+an armchair	кресло
+a bed	кровать
+a chair	стул
+a shelf	полка
+a sofa	диван
+a table	стол
+a wardrobe	шкаф
+a battery	батарейка, аккумулятор
+a camera	камера
+a computer	компьютер
+a fridge	холодильник
+an iron	утюг
+a keyboard	клавиатура
+a lamp	лампа
+a laptop	ноутбук
+a microwave	микроволновка
+an oven	печь, духовка
+a phone	телефон
+a radio	радио
+a cooker	кухонная плита
+a TV	телевизор
+a wire	провод
+a ball	мяч, шар
+a blanket	одеяло
+a carpet	ковер
+a key	ключ, клавиша
+a magazine	журнал
+mail	почта
+a mirror	зеркало
+a newspaper	газета
+a package	упаковка, посылка
+a pillow	подушка
+a sheet	простыня
+a soap	мыло
+a towel	полотенце
+a vase	ваза
